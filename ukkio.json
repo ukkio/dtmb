@@ -1,0 +1,14 @@
+{
+    "name": "dtmb",
+    "version": "1.0.0",
+    "author": "marksteve",
+    "main": "index.html",
+    "path": "",
+    "artworks": {},
+    "devices": [
+        "desktop",
+        "tablet",
+        "mobile"
+    ],
+    "parentalControl": false
+}
